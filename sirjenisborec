@@ -97,7 +97,7 @@ var langShinko = {
         "Manually":"Manually", // Manual refund received
         "Withdrawn":"Withdrawn" // refund received
     },
-    "pt_CZ": {
+    "pt_CS": {
         "Purchase": "Prémiový trh", //bought pp, 3rd cell
         "Premium Exchange": "Prémiový trh", //purchases from exchange 3rd cell
         "Points redeemed": "Nasazen", //reduction building time or account manager/premium account/LA or events, 3rd cell
